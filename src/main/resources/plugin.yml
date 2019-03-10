@@ -1,0 +1,6 @@
+name: DiscordConnector
+main: net.comorevi.discordconnector.core.Main
+version: 1.0.0
+api: 1.0.0
+author: itsu
+description: DiscordConnector
